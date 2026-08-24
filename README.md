@@ -42,12 +42,6 @@ These references were used to evaluate the organization's security controls and 
 
 ## Disclaimer
 This project is based on a fictional scenario and was created for educational and portfolio purposes.
-## Competenze dimostrate
-Control assessment
-Gap analysis
-ISO/IEC 27001 fundamentals
-Internal audit methodology
-Information security governance
-Risk identification
+
 Documentation and reporting
 Security control evaluation
