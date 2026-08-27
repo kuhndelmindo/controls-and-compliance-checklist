@@ -33,6 +33,8 @@ General Data Protection Regulation (GDPR)
 These references were used to evaluate the organization's security controls and identify potential compliance gaps within the scope of the assessment.
 
 ## Recommendations
+Based on the audit findings, Botium Toys should prioritize improvements in access control, credential management, threat detection, operational resilience, and data protection. Key actions include implementing least privilege, separation of duties, password policies, a password management system, an intrusion detection system, disaster recovery planning, legacy system management, encryption, and asset classification.
+These measures would help reduce the risk of unauthorized access, improve the detection of security threats, strengthen operational resilience, and better protect sensitive information while supporting the organization's compliance obligations.
 
 ## Skills Demonstrated
 Internal IT audit fundamentals
