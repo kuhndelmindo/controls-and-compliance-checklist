@@ -35,8 +35,18 @@ These references were used to evaluate the organization's security controls and 
 ## Recommendations
 
 ## Skills Demonstrated
+Internal IT audit fundamentals
+Risk identification and assessment
+Security control evaluation
+Gap analysis
+NIST Cybersecurity Framework fundamentals
+PCI DSS and GDPR compliance awareness
+Security findings documentation
+Risk-based recommendations
 
 ## Key Takeaways
+This project demonstrates a structured approach to internal auditing by connecting organizational assets, security risks, existing controls, compliance requirements, and risk-based recommendations.
+It also provided practical experience in documenting security findings and translating identified gaps into actionable recommendations.
 
 ## Project Files
 
